@@ -3,7 +3,7 @@ import { PortfolioGallery } from "@/components/PortfolioGallery";
 export default function Home() {
   return (
     <main className="min-h-screen">
-      <PortfolioGallery />
+      <PortfolioGallery title="Browse my creations!" />
     </main>
   );
 }
